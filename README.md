@@ -3,7 +3,7 @@ The microservice which talks to Github API, checks changed files between 2 commi
 The example repo is https://github.com/facebook/react
 
 # Run
-Run it `node .`,  it will be ready at port `4000`. 
+Before - `npm i`, then run it `node .`,  it will be ready at port `4000`. 
 
 # Use
 Use it with this example query
