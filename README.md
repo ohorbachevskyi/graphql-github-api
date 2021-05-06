@@ -15,6 +15,7 @@ Use it with this example query
 where `base` - order number of the base commit, `head` - order number of the head commit. 
 
 ***Examples:***
+
 Check which files where changed between the 10th and the 8th commits
 ```
 {
