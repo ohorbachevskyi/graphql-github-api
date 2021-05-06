@@ -12,7 +12,7 @@ Use it with this example query
   files(base: 5, head: 1)
 }
 ```
-where `base` - order number of the base commit, `head` - order number of the head commit. 
+where `base` - sequence number of the base commit, `head` - sequence number of the head commit. 
 
 ***Examples:***
 
